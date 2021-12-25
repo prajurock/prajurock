@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently Playing with Data.
+- 🌱 I’m currently learning to live.
 - 💬 Ask me about anything
 - 📫 How to reach me: prajwalsingh651@gmail.com
 - ⚡ Fun fact: prajurock!!
